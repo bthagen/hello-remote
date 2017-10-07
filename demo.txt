@@ -1,1 +1,2 @@
 Here's some text we are adding into demo.txt.
+This is an interesting change I've added: %$@iP!
